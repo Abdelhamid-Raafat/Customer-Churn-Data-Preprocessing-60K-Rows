@@ -27,13 +27,3 @@ A data preprocessing project using a 60K-row customer churn dataset, preparing t
 
 Raw Data → Cleaning → EDA → Train/Test Split → Missing Values → Outliers → Encoding → Scaling → Class Balancing → ML-Ready Data
 
-## Files
-
-- `Customer_churn_data_preprocessing_60kRows.ipynb` — preprocessing notebook
-- `customer_churn_preprocessing_problems_60k.csv` — dataset
-
-## Author
-
-**Abdelhamid Raafat**
-
-Mechatronics Engineer | AI & Machine Learning Learner
